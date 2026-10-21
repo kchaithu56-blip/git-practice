@@ -1,2 +1,4 @@
 I am learning Git
 Git helps me track changes
+This is a practice change
+I am practising Git commands
