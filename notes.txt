@@ -5,3 +5,5 @@ I am practising Git commands
 Learning Git step by step
 Git practice is going well
 This is my practice task
+Git helps me practise
+I am learning step by step
