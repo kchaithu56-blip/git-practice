@@ -7,3 +7,4 @@ Git practice is going well
 This is my practice task
 Git helps me practise
 I am learning step by step
+Git practice makes me confident
